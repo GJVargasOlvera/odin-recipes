@@ -1,1 +1,1 @@
-# odin-recipes
+Estos son mis primeros pasos aprendiendo desarrollo web con The Odin Project.
